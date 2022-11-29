@@ -1,0 +1,23 @@
+{
+  "name": "css-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "sass styles/main.scss css/main.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veronika963/css-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Veronika963/css-library/issues"
+  },
+  "homepage": "https://github.com/Veronika963/css-library#readme",
+  "dependencies": {
+    "sass": "^1.56.1"
+  }
+}
